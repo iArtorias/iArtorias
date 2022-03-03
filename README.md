@@ -1,4 +1,4 @@
-### Hi there 👋
+## <p align="center">:stop_sign: STOP WAR IN UKRAINE :stop_sign:</p>
 
 <!--
 **iArtorias/iArtorias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
