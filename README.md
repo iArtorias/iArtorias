@@ -1,16 +1,10 @@
-## <p align="center">:stop_sign: STOP WAR IN UKRAINE :stop_sign:</p>
-
-<!--
-**iArtorias/iArtorias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <p align="center">:stop_sign: STOP WAR IN UKRAINE :stop_sign: </p>
+<center>
+    <p align="center">
+        <img src="https://github-readme-stats-final.vercel.app/api?username=iArtorias&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&line_height=24&custom_title=GitHub Stats">
+      </p>
+      <hr>
+   <p align="center">
+        <img src="https://github-readme-stats-final.vercel.app/api/top-langs/?username=iArtorias&langs_count=8&layout=compact&theme=tokyonight&line_height=24">
+      </p>  
+</center>
