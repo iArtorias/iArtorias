@@ -1,10 +1,15 @@
 ## <p align="center">:stop_sign: STOP WAR IN UKRAINE :stop_sign: </p>
-<center>
-    <p align="center">
-        <img src="https://github-readme-stats-final.vercel.app/api?username=iArtorias&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&line_height=24">
-      </p>
-      <hr>
-   <p align="center">
-        <img src="https://github-readme-stats-final.vercel.app/api/top-langs/?username=iArtorias&langs_count=8&layout=compact&theme=tokyonight&line_height=24">
-      </p>  
-</center>
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <a href="https://github.com/iArtorias?tab=repositories">
+        <img align="center" src="https://github-readme-stats-final.vercel.app/api?username=iArtorias&theme=dark&hide_border=true&bg_color=00000000&show_icons=true&count_private=true&include_all_commits=false">
+      </a>
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <a href="https://github.com/iArtorias?tab=repositories">
+        <img align="center" style="padding=0;" src="http://github-readme-stats-final.vercel.app/api/top-langs/?username=iArtorias&layout=compact&show_icons=true&title_color=ffffff&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&exclude_repo=GTAV_decompiled_scripts,xenforo,volkstuin,patriciasnc" />
+      </a>
+    </td>
+  </tr>
+</table>
