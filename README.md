@@ -30,5 +30,5 @@ Hello there! I’m a passionate **reverse engineer** and **software developer** 
 
 ## 🖥️ Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iArtorias&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iArtorias&layout=compact&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=iArtorias&show_icons=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iArtorias&layout=compact&theme=gruvbox)
